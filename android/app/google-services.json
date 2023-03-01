@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78310288674",
+    "project_id": "meto-629b5",
+    "storage_bucket": "meto-629b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78310288674:android:b2cce21ca1b7498889497b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78310288674-jvrvrh9idf2k04vdc8us1ub3tece0c95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJc_Psrj3wACTvPwZ02mjYxo0LIvQxFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78310288674-jvrvrh9idf2k04vdc8us1ub3tece0c95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
